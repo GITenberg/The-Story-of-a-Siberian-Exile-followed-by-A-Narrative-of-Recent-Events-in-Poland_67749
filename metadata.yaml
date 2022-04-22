@@ -1,11 +1,16 @@
 _repo: The-Story-of-a-Siberian-Exile-followed-by-A-Narrative-of-Recent-Events-in-Poland_67749
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67749-h/images/cover.jpg
 creator:
   author:
     agent_name: Pietrowski, M. Rufin
     gutenberg_agent_id: '54436'
     url: http://www.gutenberg.org/2009/agents/54436
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67749#The-Story-of-a-Siberian-Exile-followed-by-A-Narrative-of-Recent-Events-in-Poland
 gutenberg_issued: '2022-04-01'
 identifiers:
   gutenberg: '67749'
