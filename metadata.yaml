@@ -1,0 +1,28 @@
+_repo: The-Story-of-a-Siberian-Exile-followed-by-A-Narrative-of-Recent-Events-in-Poland_67749
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pietrowski, M. Rufin
+    gutenberg_agent_id: '54436'
+    url: http://www.gutenberg.org/2009/agents/54436
+description: ''
+gutenberg_issued: '2022-04-01'
+identifiers:
+  gutenberg: '67749'
+language: en
+pgterms:marc904: https://archive.org/details/storyasiberiane02piotgoog/page/n7/mode/2up
+pgterms:marc905: 20200318172648pietrowski
+pgterms:marc906: '1863'
+pgterms:marc907: GB
+production_note: Carlos Colon, Harvard University and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United Kingdom :Longman, Green, Longman, Roberts, & Green,1863.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Story of a Siberian Exile: followed by A Narrative of Recent Events in
+  Poland'
+url: http://www.gutenberg.org/ebooks/67749
